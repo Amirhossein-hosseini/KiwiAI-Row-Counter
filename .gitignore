@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pt
+runs/
+raw_images/
+seed/
+dataset_split/
+*.mp4
+*.avi
+*.mov
