@@ -1,0 +1,5 @@
+path: DATASET_PATH
+train: images/train
+val: images/val
+test: images/test
+names: [kiwifruit, support-post]
